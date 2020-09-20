@@ -1,0 +1,59 @@
+body {
+    font-family: serif, sans-serif;
+}
+
+.main {
+    text-align: center;
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    padding-top: 4%;
+    
+}
+
+.info {
+    position: relative;
+    width: 384px;
+}
+
+.skills {
+    position: relative;
+    margin-top: -104px;
+    margin-left: 640px;
+    width: 384px;
+}
+
+.objectives {
+    position: relative;
+    margin-top: -104px;
+    margin-left: 320px;
+    width: 384px;
+}
+
+.codeexmpl {
+    position: relative;
+    margin-top: 64px;
+    margin-left: 0px;
+    width: 384px;
+}
+
+.job {
+    position: relative;
+    margin-top: -76px;
+    margin-left: 196px;
+    width: 384px;
+}
+
+.edu {
+    position: relative;
+    margin-top: -76px;
+    margin-left: 392px;
+    width: 384px;
+}
+
+.lang {
+    position: relative;
+    margin-top: -110px;
+    margin-left: 640px;
+    width: 384px;
+}
